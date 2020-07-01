@@ -3,7 +3,7 @@ def mario
 end
 
 def toadstool
-  puts ("Thank you Mario! But Our Princess Is In Another Castle!")
+  puts ("Thank You Mario! But Our Princess Is In Another Castle!")
 end
 
 def link
